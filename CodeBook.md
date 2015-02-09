@@ -12,8 +12,7 @@ Activity: Type of activity observed. Including:
 	WALKING_UPSTAIRS  
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.  
-These signals were used to estimate variables of the feature vector for each pattern:   
-'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+These signals were used to estimate variables of the feature vector for each pattern: '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 	
 	tBodyAcc-XYZ  
 	tGravityAcc-XYZ  
